@@ -1,0 +1,142 @@
+﻿[
+  {
+    "Numero": 1,
+    "Nome": "Relâmpago Mcqueen",
+    "Descricao": "Veloz, divertido e um verdadeiro astro das pistas: essa é a personalidade de Relâmpago Mcqueen. Além da cor vermelha, do número 95 e do raio que estampam suas portas, Mcqueen é um carro de corrida inspirado no modelo Corvette C6. Revelação da Copa Pistão, Relâmpago Mcqueen é apaixonado por Sally Carrera e seu grande amigo é Tom Mate.",
+    "Tipo": [ "CARROS", "CARROS2" , "CARROS3" ],
+    "Imagem": "\\img\\carros\\001.png"
+  },
+  {
+    "Numero": 2,
+    "Nome": "Tom Mate",
+    "Descricao": "Meu nome é Mate, igual tomate, mas sem o to. Essa frase é a marca registrada de Mate, um caminhão-reboque que vive em Radiator Springs. Inspirado no modelo de uma picape clássica dos anos 1950, Mate tem a pintura enferrujada, um sotaque diferente e um coração enorme, sempre disposto a ajudar. Ele também é o melhor amigo de Mcqueen e o ensina a valorizar as coisas simples da vida.",
+    "Tipo": [ "CARROS", "CARROS2" , "CARROS3" ],
+    "Imagem": "\\img\\carros\\002.png"
+  },
+  {
+    "Numero": 3,
+    "Nome": "Sally Carrera",
+    "Descricao": "Entre os personagens de Carros, Sally é uma das mais marcantes. A grande amiga de Mate e namorada do astro Relâmpago Mcqueen, foi inspirada no modelo Porsche 911 Carrera. Além da cor azul-bebê, Sally tem uma tatuagem em sua traseira, olhos azuis, é muito veloz, inteligente, gentil e gosta de ajudar os amigos.",
+    "Tipo": [ "CARROS", "CARROS2" , "CARROS3" ],
+    "Imagem": "\\img\\carros\\003.png"
+  },
+  {
+    "Numero": 4,
+    "Nome": "Strip Weathers",
+    "Descricao": "Strip Weathers, também é conhecido como “O Rei”. Ele, que já venceu a Copa Pistão por 7 vezes, é uma inspiração para Mcqueen e, entre os personagens de Carros, é Strip quem se torna o tutor do novo piloto, dando a ele dicas e conselhos importantes para as corridas. De cor azul e com o número 43 estampado em suas portas, Strip Weathers foi inspirado no Plymouth Superbird.",
+    "Tipo": [ "CARROS", "CARROS2" ],
+    "Imagem": "\\img\\carros\\004.png"
+  },
+  {
+    "Numero": 5,
+    "Nome": "Doc Hudson",
+    "Descricao": "Doc Hudson disputou muitas corridas e era conhecido como “Fabuloso”. Após um acidente, ele se afastou das pistas e tornou-se médico e juiz na cidade de Radiator Springs. Além disso, no filme Doc Hudson também se torna líder da equipe de Mcqueen e desenvolve uma grande amizade com o jovem piloto. O personagem foi inspirado no modelo Hudson Hornet da década de 1950.",
+    "Tipo": [ "CARROS", "CARROS2" ],
+    "Imagem": "\\img\\carros\\005.png"
+  },
+  {
+    "Numero": 6,
+    "Nome": "Mack",
+    "Descricao": "Dentre os personagens de Carros, Mack tem um papel muito importante: é ele quem transporta Mcqueen de uma corrida a outra. O caminhão, que também é vermelho e tem o número 95 junto com um relâmpago adesivado em suas laterais, foi desenhado a partir do modelo Mack Super-Liner. Além de motorista de Mcqueen, Mack também ouve e aconselha o jovem piloto.",
+    "Tipo": [ "CARROS", "CARROS2" , "CARROS3" ],
+    "Imagem": "\\img\\carros\\006.png"
+  },
+  {
+    "Numero": 7,
+    "Nome": "Chick Hicks",
+    "Descricao": "Chick Hicks é o grande adversário de Relâmpago Mcqueen nas pistas. Diferente dos outros carros, ele faz o que for preciso para ganhar uma corrida, até mesmo trapacear. De cor verde e olhos castanhos, Chick Hicks tem o número 86 estampado em suas laterais junto com diversos outros adesivos e foi inspirado no modelo Buick Regal.",
+    "Tipo": [ "CARROS" ],
+    "Imagem": "\\img\\carros\\007.png"
+  },
+  {
+    "Numero": 8,
+    "Nome": "Ramone",
+    "Descricao": "Ramone vive com sua esposa Flo em Radiator Springs, onde tem uma oficina incrível para customizar os carros da cidade. Além de personalizar os veículos da vila, Ramone também faz customizações em si próprio e por isso, está sempre com um visual diferente. Esse personagem divertido e estiloso, que foi inspirado no modelo Impala, possui um potente sistema de suspensão.",
+    "Tipo": [ "CARROS" ],
+    "Imagem": "\\img\\carros\\008.png"
+  },
+  {
+    "Numero": 9,
+    "Nome": "Flo",
+    "Descricao": "Enquanto seu marido Ramone comanda uma oficina, ela lidera com muito carinho e cuidado o Café V8 da Flo, um lugar divertido e frequentado por muitos carros de Radiator Springs. A alegria e simpatia de Flo faz com que ela seja muito querida entre os demais personagens de Carros. Inspirada no modelo clássico Ford Thunderbird, Flo também tem a cor verde e um lindo sorriso.",
+    "Tipo": [ "CARROS" ],
+    "Imagem": "\\img\\carros\\009.png"
+  },
+  {
+    "Numero": 10,
+    "Nome": "Fillmore",
+    "Descricao": "Fillmore é um dos personagens de Carros que vive na tranquila vila de Radiator Springs. Ele gosta de coisas naturais e por isso, fabrica seu próprio combustível orgânico. Sua personalidade calma e tranquila combina com sua cor verde clara e as pinturas coloridas que estampam suas laterais junto com a palavra “paz”. Fillmore foi inspirado no modelo da Volkswagen Kombi de 1960.",
+    "Tipo": [ "CARROS" ],
+    "Imagem": "\\img\\carros\\010.png"
+  },
+  {
+    "Numero": 11,
+    "Nome": "Xerife",
+    "Descricao": "Xerife é o policial que cuida da segurança de Radiator Springs. Ele, que gosta que os carros respeitem as regras de trânsito, está sempre chamando a atenção de Mcqueen, que adora acelerar pelas pistas da cidade. A viatura preta e branca de Xerife foi inspirada no modelo Mercury Eight cupê, um clássico dos anos 1940.",
+    "Tipo": [ "CARROS" ],
+    "Imagem": "\\img\\carros\\011.png"
+  },
+  {
+    "Numero": 12,
+    "Nome": "Luigi",
+    "Descricao": "Entre os principais personagens de Carros está Luigi. Proprietário da Casa Della Tires, uma loja de pneus em Radiator Springs, Luigi é italiano e um grande fã dos carros da Ferrari. Inspirado no modelo Fiat 500, ele tem a cor amarela clara, uma cobertura preta em seu teto, além de ser o melhor amigo e chefe de Guido.",
+    "Tipo": [ "CARROS", "CARROS2", "CARROS3" ],
+    "Imagem": "\\img\\carros\\012.png"
+  },
+  {
+    "Numero": 13,
+    "Nome": "Guido",
+    "Descricao": "Guido é o trocador oficial de pneus do piloto Relâmpago Mcqueen. Por trabalhar junto com Luigi na Casa Della Tires e ser seu melhor amigo, Guido também carrega um sotaque italiano em sua voz. O pequeno carro de cor azul e que tem bracinhos de empilhadeira, foi inspirado no modelo Romi-Isetta.",
+    "Tipo": [ "CARROS", "CARROS2", "CARROS3" ],
+    "Imagem": "\\img\\carros\\013.png"
+  },
+  {
+    "Numero": 14,
+    "Nome": "Lizzie",
+    "Descricao": "A aparência de Lizzie, que tem a cor preta, lembra o modelo clássico Ford T. Uma das moradoras mais antigas de Radiator Springs, Lizzie é viúva e foi casada com Stanley, o fundador da cidade. Diferente dos outros personagens de Carros, Lizzie às vezes se esquece das coisas. Ela ocupa seus dias vendendo lembrancinhas da cidade para os turistas.",
+    "Tipo": [ "CARROS" ],
+    "Imagem": "\\img\\carros\\014.png"
+  },
+  {
+    "Numero": 15,
+    "Nome": "Ruivo",
+    "Descricao": "Ruivo é o caminhão de bombeiros de Radiator Springs. Ele é vermelho, muito gentil e adora ajudar outros carros. Ele vive na casa de bombeiros da cidade e é um pouco tímido. Ainda que não fale muito, Ruivo demonstra em suas atitudes de cuidado o quanto ama e se preocupa com os moradores da vila.",
+    "Tipo": [ "CARROS" ],
+    "Imagem": "\\img\\carros\\015.png"
+  },
+  {
+    "Numero": 16,
+    "Nome": "Sargento",
+    "Descricao": "Sargento é um dos personagens de Carros inspirado no modelo Jeep Willys. Sua cor verde e seu olhar sério, deixam Sargento parecido com um militar. Ele, que também vive na tranquila cidade de Radiator Springs, é vendedor de acessórios para carros e de diversos tipos de objetos.",
+    "Tipo": [ "CARROS", "CARROS2" ],
+    "Imagem": "\\img\\carros\\016.png"
+  },
+  {
+    "Numero": 17,
+    "Nome": "finn mcmissile",
+    "Descricao": "Finn é elegante e intemporal, mas ele também está preparado para qualquer situação complicada com um arsenal de bugigangas e armas, incluindo ganchos dianteiros e traseiros, um lançador de mísseis, destacáveis explosivos magnéticos e um emissor de disfarce holográfico",
+    "Tipo": [ "CARROS2" ],
+    "Imagem": "\\img\\carros\\017.png"
+  },
+  {
+    "Numero": 18,
+    "Nome": "Jackson Storm",
+    "Descricao": "As incríveis habilidades de Storm são responsáveis ​​pela sua auto confiança, já que Storm está bem ciente de sua própria força, e ele acredita que ele é representante de sua geração de corrida como um todo. Como resultado disso, Storm traz uma atitude arrogante, que outros vêem como deslumbrantes.",
+    "Tipo": [ "CARROS3" ],
+    "Imagem": "\\img\\carros\\018.png"
+  },
+  {
+    "Numero": 19,
+    "Nome": "francesco bernoulli",
+    "Descricao": "corredor do Grand Prix Mundial e um grande rival de Relâmpago McQueen. Embora ele seja um antagonista, e rude com McQueen em certos pontos no final do filme ele e Relâmpago se tornam amigos,",
+    "Tipo": [ "CARROS2"],
+    "Imagem": "\\img\\carros\\019.png"
+  },
+  {
+    "Numero": 20,
+    "Nome": "Cruz Ramirez",
+    "Descricao": "A Cruz é otimista e feliz, antigamente ela gostava de ajudar outros carros a se tornarem corredores profissionais (porque antes ela era uma treinadora).",
+    "Tipo": [ "CARROS3" ],
+    "Imagem": "\\img\\carros\\020.png"
+  }
+]
